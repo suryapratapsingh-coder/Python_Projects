@@ -33,4 +33,4 @@ if another_order == "Yes":
 
 print(f"The Total Amount Of Item Is To Pay {order_total}")
 
-
+pri
